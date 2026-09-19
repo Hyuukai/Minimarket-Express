@@ -19,7 +19,6 @@
 
 - [Descripción](#-descripción)
 - [Objetivo](#-objetivo)
-- [Capturas de pantalla](#-capturas-de-pantalla)
 - [Categorías](#️-categorías)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Estructura del proyecto](#-estructura-del-proyecto)
@@ -41,21 +40,19 @@ Este proyecto forma parte de la asignatura **Diseño Web I** y aplica principios
 Diseñar un sitio web informativo que permita presentar los productos y categorías de un minimarket de forma clara, moderna y fácil de navegar, priorizando la experiencia del usuario y la coherencia visual de la marca.
 
 
-##  Categorías
+## Categorías
 
 El proyecto incluye las siguientes categorías de productos:
 
-| Categoría | Ícono |
-|---|:---:|
-| Carnes 
-| Bebidas 
-| Frutas 
-| Verduras 
-| Productos de limpieza |
-| Productos para mascotas 
-| Panadería y pastelería 
-| Snacks 
-| Abarrotes 
+- Carnes
+- Bebidas
+- Frutas
+- Verduras
+- Productos de limpieza
+- Productos para mascotas
+- Panadería y pastelería
+- Snacks
+- Abarrotes
 
 ##  Tecnologías utilizadas
 
