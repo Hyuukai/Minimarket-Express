@@ -40,17 +40,6 @@ Este proyecto forma parte de la asignatura **Diseño Web I** y aplica principios
 
 Diseñar un sitio web informativo que permita presentar los productos y categorías de un minimarket de forma clara, moderna y fácil de navegar, priorizando la experiencia del usuario y la coherencia visual de la marca.
 
-##  Capturas de pantalla
-
-<div align="center">
-
-| Página principal | Categoría de productos |
-|:---:|:---:|
-| ![Página principal](./imagen/preview-principal.png) | ![Categoría](./imagen/preview-categoria.png) |
-
-</div>
-
->  Reemplaza las rutas de las imágenes de arriba con capturas reales de tu proyecto (guárdalas, por ejemplo, en `imagen/preview-principal.png`).
 
 ##  Categorías
 
