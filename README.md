@@ -17,15 +17,15 @@
 
 ##  Tabla de contenidos
 
-- [Descripción](#-descripción)
-- [Objetivo](#-objetivo)
-- [Categorías](#️-categorías)
-- [Tecnologías utilizadas](#-tecnologías-utilizadas)
-- [Estructura del proyecto](#-estructura-del-proyecto)
-- [Cómo ejecutarlo](#-cómo-ejecutarlo)
-- [Roadmap](#-roadmap)
-- [Autor](#-autor)
-- [Licencia](#-licencia)
+- [Descripción](#descripción)
+- [Objetivo](#objetivo)
+- [Categorías](#categorías)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Cómo ejecutarlo](#cómo-ejecutarlo)
+- [Roadmap](#roadmap)
+- [Autor](#autor)
+- [Licencia](#licencia)
 
 ---
 
