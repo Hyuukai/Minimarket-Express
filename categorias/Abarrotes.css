@@ -3,7 +3,7 @@ body{
 }
 header{
     padding: 20px 40px;
-    background-color: #eaf2ec;
+    background-image: url("../imagen/fondo.png");
 }
 .logo img{
     width: 220px;
@@ -29,4 +29,147 @@ header{
     font-size: 50px;
     font-weight: bold;
     text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.7);
+}
+
+.Productos{
+    display: grid;
+    grid-template-columns: repeat(5,220px);
+    justify-content: center;
+    gap: 25px;
+    padding: 35px;
+}
+.producto{
+    width: 220px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+.producto img{
+    width: 100%;
+    height: 160px;
+    object-fit: contain;
+    display: block;
+}
+.producto h2 {
+    font-size: 18px;
+    color: #004D40;
+    margin: 12px 0 8px;
+}
+.producto p {
+    color: #087F4E;
+    font-weight: bold;
+    margin: 0;
+}
+
+.volver { 
+    display: block;
+    text-align: center;
+    margin: 20px 0 35px;
+    text-decoration: none;
+}
+
+.volver button {
+    background-color: #004D40;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.volver button:hover {
+    background-color: #087F4E;
+}
+.PiePagina {
+    display: grid;
+    grid-template-columns: 250px 400px 180px;
+    gap: 25px;
+    padding: 30px 40px;
+    background-color: #f2f2f2;
+    color: white;
+    align-items: start;
+    font-family: Arial, sans-serif;
+}
+
+.pagina-columna {
+    width: 250px;
+}
+
+.pagina-columna img {
+    width: 190px;
+    height: auto;
+}
+
+.pagina-columna hr {
+    border: none;
+    height: 2px;
+    background-color: #93c353;
+    margin: 12px 0;
+}
+
+.pagina-columna p {
+    margin: 0;
+    color: #004D40;
+}
+
+.pie-columna {
+    width: 400px;
+}
+
+.pie-columna h3 {
+    margin: 0 0 12px 0;
+    color: #004D40;
+    font-size: 18px;
+}
+
+.pie-columna ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 120px 150px;
+    column-gap: 15px;
+    row-gap: 7px;
+}
+
+.pie-columna li {
+    margin: 0;
+}
+
+.pie-columna a {
+    color: #004D40;
+    text-decoration: none;
+}
+
+.pie-columna a:hover {
+    color: #004D40;
+}
+
+.pagina-columna-derecha {
+    width: 180px;
+    text-align: left;
+}
+
+.pagina-columna-derecha h3 {
+    margin: 0 0 12px 0;
+    color: #004D40;
+    font-size: 18px;
+}
+
+.pagina-columna-derecha p {
+    margin: 0 0 8px 0;
+    color: #004D40;
+}
+.pagina-columna-derecha h4{
+    margin: 0 0 12px 0;
+     font-size: 16px;
+     color: #004D40;
+}
+.pagina-columna-derecha a{
+     color: #004D40;
+     text-decoration: none;
+     
 }
