@@ -21,6 +21,7 @@ header{
     height: 100%;
     object-fit: cover;
     display: block;
+     filter: brightness(50%);
 }
 .Abarrotes span{
     position: absolute;
