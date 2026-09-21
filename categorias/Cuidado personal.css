@@ -10,20 +10,20 @@ header{
     width: 220px;
     height: auto;
 }
-.Abarrotes{
+.Cuidado-Personal{
     position: relative;
     width: 100%;
     height: 280px;
     overflow: hidden;
 }
-.Abarrotes img{
-    width: 100%;
+.Cuidado-Personal img {
+ width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
 }
-.Abarrotes span{
-    position: absolute;
+.Cuidado-Personal span{
+ position: absolute;
     bottom: 30px;
     left: 50px;
     color: rgb(253, 253, 253);

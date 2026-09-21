@@ -1,45 +1,47 @@
-body{
-    margin:0px;
-    background-image: url("../imagen/fondo.png");
-}
-header{
-    padding: 20px 40px;
-    background-color: #eaf2ec;
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  background-image: url("../imagen/fondo.png");
 }
 .logo img{
     width: 220px;
     height: auto;
 }
-.Abarrotes{
-    position: relative;
+
+header {
+    padding: 20px 40px;
+    background-color: #eaf2ec;
+}
+.limpieza{
+     position: relative;
     width: 100%;
     height: 280px;
     overflow: hidden;
 }
-.Abarrotes img{
+.limpieza img{
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
 }
-.Abarrotes span{
+.limpieza span{
     position: absolute;
     bottom: 30px;
     left: 50px;
-    color: rgb(253, 253, 253);
-    font-size: 50px;
+    color: white;
+    font-size: 45px;
     font-weight: bold;
     text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.7);
 }
-
-.Productos{
+.Productos {
     display: grid;
-    grid-template-columns: repeat(5,220px);
+    grid-template-columns: repeat(5, 220px);
     justify-content: center;
     gap: 25px;
     padding: 35px;
 }
-.producto{
+
+.producto {
     width: 220px;
     background-color: white;
     border-radius: 15px;
@@ -48,24 +50,27 @@ header{
     box-sizing: border-box;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
-.producto img{
+
+.producto img {
     width: 100%;
     height: 160px;
     object-fit: contain;
     display: block;
 }
+
 .producto h2 {
     font-size: 18px;
     color: #004D40;
     margin: 12px 0 8px;
 }
+
 .producto p {
     color: #087F4E;
     font-weight: bold;
     margin: 0;
 }
 
-.volver { 
+.volver {
     display: block;
     text-align: center;
     margin: 20px 0 35px;
