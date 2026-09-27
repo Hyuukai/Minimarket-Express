@@ -20,7 +20,7 @@ header {
 
 .Portada {
     width: 100%;
-    margin: 0 autos;
+    margin: 0;
     padding: 0;
 }
 
@@ -101,12 +101,14 @@ header {
     width: 100%;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 .Oferta img {
     width: 100%;
     height: auto;
     display: block;
+
 }
 
 .PiePagina {
@@ -189,13 +191,15 @@ header {
     margin: 0 0 8px 0;
     color: #004D40;
 }
-.pagina-columna-derecha h4{
+
+.pagina-columna-derecha h4 {
     margin: 0 0 12px 0;
-     font-size: 16px;
-     color: #004D40;
+    font-size: 16px;
+    color: #004D40;
 }
-.pagina-columna-derecha a{
-     color: #004D40;
-     text-decoration: none;
-     
+
+.pagina-columna-derecha a {
+    color: #004D40;
+    text-decoration: none;
+
 }
