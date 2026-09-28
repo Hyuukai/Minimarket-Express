@@ -96,7 +96,7 @@ No requiere instalación ni dependencias: es un sitio estático.
 
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/tu-usuario/minimarket-express.git
+   [git clone https://github.com/tu-usuario/minimarket-express.git](https://github.com/Hyuukai/Minimarket-Express)
 ```
 2. Entra a la carpeta del proyecto:
 ```bash
